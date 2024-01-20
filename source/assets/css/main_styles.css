@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700");
-
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 :root {
      --blue: #007bff;
      --indigo: #6610f2;
@@ -63,8 +63,8 @@ h1 span {
      display: inline-block;
      animation: bounce .3s ease infinite alternate;
      animation-iteration-count: 8;
-     font-family: 'Crimson Text', cursive;
-     font-size: 1.8rem;
+     font-family: 'Dancing Script', cursive;
+     font-size: 2rem;
      color: rgb(255, 245, 245);
      letter-spacing: -0.17em;
      /* 글자 간격 조정 0.01칸 움직일 때 마다 font-size도 0.1씩 움직여야 함 (반비례)*/
@@ -119,15 +119,15 @@ h1 span:nth-child(9) {
 @keyframes bounce {
      100% {
           top: -30px;
-          text-shadow: 0 1px 0 #b0b8f7,
-               0 2px 0 #b0b8f7,
-               0 3px 0 #b0b8f7,
-               0 4px 0 #b0b8f7,
-               0 5px 0 #b0b8f7,
-               0 6px 0 #b0b8f7,
-               0 7px 0 #b0b8f7,
-               0 8px 0 #b0b8f7,
-               0 9px 0 #b0b8f7,
+          text-shadow: 0 1px 0 #b39eff,
+               0 2px 0 #b39eff,
+               0 3px 0 #b39eff,
+               0 4px 0 #b39eff,
+               0 5px 0 #b39eff,
+               0 6px 0 #b39eff,
+               0 7px 0 #b39eff,
+               0 8px 0 #b39eff,
+               0 9px 0 #b39eff,
                0 50px 25px rgba(0, 0, 0, .3);
      }
 }
@@ -4950,7 +4950,7 @@ input[type="button"].btn-block {
 
 .nav-link {
      display: block;
-     padding: 0.5rem 1rem;
+     padding: 0.5rem 0.7rem;
 }
 
 .nav-link:hover,

@@ -8,8 +8,9 @@ const jsonFile = require("jsonfile");
 app.use(express.json());
 app.use("/", express.static("./source"));
 
-app.get('/about', (req, res) => {
-	res.sendFile(__dirname + '/source/about.html');
+app.get('/developers', (req, res) => {
+	app.use("/", express.static("./source/_developers"));
+	res.sendFile(__dirname + '/source/_developers/index.html');
 });
 
 // 서버 실행

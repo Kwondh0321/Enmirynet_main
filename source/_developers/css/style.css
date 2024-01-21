@@ -4,7 +4,7 @@ body {
   color: #818181;
   font-weight: 300;
   font-size: 15px;
-  background: #c3c3c3;
+  background: #c4c4c4;
 }
 
   body:before {
@@ -31,7 +31,7 @@ body {
 
 ::-moz-selection {
   background: #000;
-  color: #e2e2e2; }
+  color: #c2c2c2; }
 
 ::selection {
   background: #000;
@@ -48,6 +48,11 @@ h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   color: #293d70; }
+h7, .h7 {
+	font-size: 14px;
+	letter-spacing: -1px;
+}
+
 
 .border-2 {
   border-width: 2px; }

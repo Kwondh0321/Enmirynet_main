@@ -12,4 +12,4 @@ Enmirynet is a Web Development project developed by Kwondh0321 and two others. W
 
 ## Developers
 Plz refer to the following website for detailed information about EnMirynet and details about individuals who have contributed to its development:
-https://ournicerver.com/developers.
+[EnMirynet_Developers](https://ournicerver.com/developers)

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Enmirynet is a Web Development project developed by Kwondh0321 and two others. We began our journey by studying both backend and frontend development. With no predetermined theme, numerous services are currently in existence and under development
+[EnMirynet](https://ournicerver.com/) is a Web Development project developed by Kwondh0321 and two others. We began our journey by studying both backend and frontend development. With no predetermined theme, numerous services are currently in existence and under development
 
 ## Services Roadmap
 - [AI_EnMirynet](https://ai.ournicerver.com/) : currently using GPT-4, but planning to develop and utilize my own model directly using TensorFlow in the future.

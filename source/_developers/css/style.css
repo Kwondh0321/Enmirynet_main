@@ -103,7 +103,7 @@ h7, .h7 {
     visibility: visible; }
 
 .btn {
-  border-radius: 30px; }
+  border-radius: 40px; }
   .btn:hover, .btn:active, .btn:focus {
     outline: none;
     -webkit-box-shadow: none !important;
@@ -254,7 +254,7 @@ h7, .h7 {
   display: inline-block;
   border: 2px solid #e0e0e0;
   color: #e0e0e0 !important;
-  border-radius: 50%;
+  border-radius: 40%;
   position: relative;
   -webkit-transition: .3s all ease-in-out;
   -o-transition: .3s all ease-in-out;
@@ -551,7 +551,7 @@ h7, .h7 {
       height: 36px;
       text-align: center;
       cursor: pointer;
-      border-radius: 50%; }
+      border-radius: 40%; }
       .site-mobile-menu .site-nav-wrap .arrow-collapse:hover {
         background: #f8f9fa; }
       .site-mobile-menu .site-nav-wrap .arrow-collapse:before {
@@ -889,7 +889,7 @@ h7, .h7 {
       margin-left: auto !important;
       margin-right: auto !important; } }
   .site-blocks-vs .image img {
-    border-radius: 50%; }
+    border-radius: 40%; }
   .site-blocks-vs .image.image-small {
     width: 50px;
     -webkit-box-flex: 0;
@@ -1003,7 +1003,7 @@ h7, .h7 {
   padding: 0px;
   height: 50px;
   width: 50px;
-  border-radius: 50%;
+  border-radius: 40%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
@@ -1041,7 +1041,7 @@ h7, .h7 {
       display: inline-block;
       width: 7px;
       height: 7px;
-      border-radius: 50%;
+      border-radius: 40%;
       background: #ced4da; }
     .slide-one-item .owl-dots .owl-dot.active span {
       background: #21325E; }
@@ -1120,7 +1120,7 @@ h7, .h7 {
     height: 70px;
     background: #e0e0e0;
     display: block;
-    border-radius: 50%;
+    border-radius: 40%;
     opacity: 1;
     color: #21325E !important; }
     .block-16 figure .play-button:hover {
@@ -1177,20 +1177,20 @@ h7, .h7 {
 
 .next-match .image {
   width: 50px;
-  border-radius: 50%; }
+  border-radius: 40%; }
 
 .player {
   position: relative; }
   .player img {
     max-width: 100px;
-    border-radius: 50%;
+    border-radius: 40%;
     margin-bottom: 20px; }
   .player .team-number {
     position: absolute;
     width: 30px;
     height: 30px;
     background: #21325E;
-    border-radius: 50%;
+    border-radius: 40%;
     color: #e0e0e0; }
     .player .team-number > span {
       position: absolute;
@@ -1221,7 +1221,7 @@ h7, .h7 {
     width: 40px;
     height: 40px;
     line-height: 40px;
-    border-radius: 50%;
+    border-radius: 40%;
     border: 1px solid #ccc; }
   .site-block-27 ul li.active a, .site-block-27 ul li.active span {
     background: #21325E;
@@ -1343,7 +1343,7 @@ h7, .h7 {
     height: 80px;
     line-height: 80px;
     position: relative;
-    border-radius: 50%;
+    border-radius: 40%;
     margin: 0 auto !important; }
     .feature-1 .icon > span, .free-quote .icon > span, .feature-3 .icon > span {
       font-size: 35px;
@@ -1409,17 +1409,17 @@ h7, .h7 {
     transform: translateX(0%); }
 
 .testimonial {
-  max-width: 800px;
+  max-width: 1000px;
   margin: 0 auto !important;
   text-align: center; }
   .testimonial blockquote {
     color: #000;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-style: italic; }
   .testimonial figure img {
     max-width: 100px;
     margin: 0 auto;
-    border-radius: 50%; }
+    border-radius: 20%; }
 
 .breadcrumb-custom {
   font-size: 1rem !important; }
@@ -1437,7 +1437,7 @@ h7, .h7 {
   display: inline-block;
   text-align: center;
   font-size: 30px;
-  border-radius: 50%;
+  border-radius: 40%;
   margin-bottom: 40px; }
 
 .how-it-work-item h2 {
@@ -1471,7 +1471,7 @@ h7, .h7 {
       font-size: 13px;
       text-align: center;
       line-height: 30px;
-      border-radius: 50%;
+      border-radius: 40%;
       display: inline-block; }
     .ul-social-circle li a span {
       color: #e0e0e0;
@@ -1486,7 +1486,7 @@ h7, .h7 {
   width: 40px;
   height: 40px;
   line-height: 40px;
-  border-radius: 50%;
+  border-radius: 40%;
   display: inline-block;
   background: #21325E;
   color: #e0e0e0; }
@@ -1501,14 +1501,14 @@ h7, .h7 {
 
 .form-search-wrap {
   background: #e0e0e0;
-  border-radius: 30px; }
+  border-radius: 40px; }
   .form-search-wrap .form-control {
     border: none; }
     @media (max-width: 1199.98px) {
       .form-search-wrap .form-control {
         height: 55px; } }
   .form-search-wrap .btn {
-    border-radius: 30px;
+    border-radius: 40px;
     padding: 10px 30px; }
     @media (max-width: 1199.98px) {
       .form-search-wrap .btn {
@@ -1538,7 +1538,7 @@ h7, .h7 {
     transition: .1s all ease; }
   .popular-category .number {
     padding: 2px 20px;
-    border-radius: 30px;
+    border-radius: 40px;
     display: inline-block;
     background: #e9ecef;
     color: #000;
@@ -1599,7 +1599,7 @@ h7, .h7 {
       display: inline-block;
       padding: 5px 30px;
       background: #21325E;
-      border-radius: 30px;
+      border-radius: 40px;
       color: #e0e0e0;
       letter-spacing: .2em;
       text-transform: uppercase; }
@@ -1617,7 +1617,7 @@ h7, .h7 {
     bottom: 0;
     width: 40px;
     height: 40px;
-    border-radius: 50%;
+    border-radius: 40%;
     display: inline-block;
     background: rgba(255, 255, 255, 0.3);
     -webkit-transition: .3s all ease;
@@ -1667,7 +1667,7 @@ h7, .h7 {
     height: 50px;
     background: #21325E;
     margin-right: 1.5rem;
-    border-radius: 50%;
+    border-radius: 40%;
     line-height: 50px;
     text-align: center;
     text-decoration: none !important; }

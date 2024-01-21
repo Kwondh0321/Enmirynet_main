@@ -306,7 +306,8 @@ h1, h2, h3, h4, h5,
   z-index: -1; }
 
 .particlehead {
-  position: absolute; }
+  position: absolute;
+}
 
 /* Navbar */
 .site-navbar {
@@ -618,11 +619,12 @@ h1, h2, h3, h4, h5,
   font-weight: 700; }
 
 .site-blocks-cover {
+	 background-image: url('/images/img_develop1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: top;
   background-position: center center;
-  background: #e5e5e5; }
+}
+
   .site-blocks-cover.overlay {
     position: relative; }
     .site-blocks-cover.overlay:before {
@@ -646,8 +648,10 @@ h1, h2, h3, h4, h5,
   .site-blocks-cover h1 {
     font-size: 3rem;
     font-weight: 400;
-    color: #21325E;
-    text-transform: uppercase; }
+    color: #16388d;
+    text-transform: uppercase;
+		text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+	}
     @media (max-width: 991.98px) {
       .site-blocks-cover h1 {
         font-size: 2rem; } }

@@ -4,7 +4,7 @@ body {
   color: #818181;
   font-weight: 300;
   font-size: 15px;
-  background: #c4c4c4;
+  background: #ababab;
 }
 
   body:before {
@@ -51,6 +51,14 @@ h1, h2, h3, h4, h5,
 h7, .h7 {
 	font-size: 14px;
 	letter-spacing: -1px;
+}
+
+#enmirynet_safety {
+	background-color: #c9c9c9;
+}
+
+#divide_compartmants {
+	background-color: #ededed;
 }
 
 
@@ -136,7 +144,10 @@ h7, .h7 {
   font-size: 18px; }
 
 .site-section {
-  padding: 2.5em 0; }
+  padding: 2.5em 0;
+	color: #616161;
+	background-color: #bdbdbd;
+}
   @media (min-width: 768px) {
     .site-section {
       padding: 5em 0; } }
@@ -147,13 +158,17 @@ h7, .h7 {
   padding-bottom: 20px;
   margin-bottom: 0px;
   position: relative;
-  font-size: 28px; }
+  font-size: 28px;
+}
   @media (min-width: 768px) {
     .site-section-heading {
-      font-size: 30px; } }
+      font-size: 30px;
+		}
+	}
 
 .border-top {
-  border-top: 1px solid #edf0f5 !important; }
+  border-top: 1px solid #edf0f5 !important;
+}
 
 .site-footer {
   padding: 4em 0; }

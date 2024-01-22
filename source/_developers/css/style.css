@@ -4,7 +4,7 @@ body {
   color: #818181;
   font-weight: 300;
   font-size: 15px;
-  background: #ababab;
+  background: #a8a8a8;
 }
 
   body:before {
@@ -54,11 +54,11 @@ h7, .h7 {
 }
 
 #enmirynet_safety {
-	background-color: #c9c9c9;
+	background-color: #c2c2c2;
 }
 
 #divide_compartmants {
-	background-color: #f0f0f0;
+	background-color: #ededed;
 }
 
 
@@ -146,7 +146,7 @@ h7, .h7 {
 .site-section {
   padding: 2.5em 0;
 	color: #616161;
-	background-color: #bdbdbd;
+	background-color: #b5b5b5;
 }
   @media (min-width: 768px) {
     .site-section {

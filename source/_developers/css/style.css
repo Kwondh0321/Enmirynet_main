@@ -61,6 +61,9 @@ h7, .h7 {
 	background-color: #ededed;
 }
 
+#menu_items {
+	margin-top: -45px;
+}
 
 .border-2 {
   border-width: 2px; }

@@ -2,7 +2,7 @@
 
 [EnMirynet](https://enmirynet.com/) is a web development project focused on delivering diverse services in both backend and frontend development. Developed by Kwondh0321 and two other collaborators, our project encompasses a variety of services, some of which are live, while others are actively under development.
 
-BUT, ACCESS TO THIS WEBSITE IS CURRENTLY RESTRICTED DUE TO DOMSIN ISSUES.
+BUT, ACCESS TO THIS WEBSITE IS CURRENTLY RESTRICTED DUE TO DOMAIN ISSUES.
 
 ## Services Overview
 

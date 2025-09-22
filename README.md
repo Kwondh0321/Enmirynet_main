@@ -8,19 +8,19 @@ BUT, ACCESS TO THIS WEBSITE IS CURRENTLY RESTRICTED DUE TO DOMAIN ISSUES.
 
 ### AI_EnMirynet
 
-- [AI_EnMirynet](https://ai.enmirynet.com/): Currently powered by GPT-4, we have plans to develop and implement our own model using TensorFlow in the future.
+- [AI_EnMirynet](https://github.com/Kwondh0321/Enmirynet_AI): Currently powered by GPT-4, we have plans to develop and implement our own model using TensorFlow in the future.
 
 ### TrendingTopics_EnMirynet
 
-- [TrendingTopics_EnMirynet](https://topic.enmirynet.com/): Real-time ranking of search keywords on Naver and news rankings on Nate. Future plans include expanding support to include more portal sites.
+- [TrendingTopics_EnMirynet](https://github.com/Kwondh0321/Enmirynet_news): Real-time ranking of search keywords on Naver and news rankings on Nate. Future plans include expanding support to include more portal sites.
 
 ### Shopping_EnMirynet
 
-- [Shopping_EnMirynet](https://shopping.enmirynet.com/): Currently providing search results from '11번가' due to API integration issues. Future plans involve integrating APIs from various shopping sites for personalized search results.
+- [Shopping_EnMirynet](https://github.com/Kwondh0321/Enmirynet_Shopping): Currently providing search results from '11번가' due to API integration issues. Future plans involve integrating APIs from various shopping sites for personalized search results.
 
 ### Subway_EnMirynet
 
-- [Subway_EnMirynet](https://subway.enmirynet.com/): Still in development, currently supporting subway systems in the metropolitan area of South Korea. Future plans include integration of all subway systems by region and offering personalized services through "Geolocation."
+- [Subway_EnMirynet](https://github.com/Kwondh0321/Enmirynet_Subway): Still in development, currently supporting subway systems in the metropolitan area of South Korea. Future plans include integration of all subway systems by region and offering personalized services through "Geolocation."
 
 ## Developers
 
@@ -29,4 +29,4 @@ For detailed information about EnMirynet and insights into the individuals contr
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License].
